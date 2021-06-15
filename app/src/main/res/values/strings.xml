@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">contact_lino_809661_android</string>
+    <string name="add_contact">add contact</string>
+    <string name="update_contact_btn_text" />
+    <string name="update_label" />
+    <string name="contactnameplaceholder">contactNamePlaceholder</string>
+    <string name="enter_contact_name">Enter contact name</string>
+    <string name="enter_contact_last_name">Enter contact last name</string>
+    <string name="enter_contact_email">Enter contact email</string>
+    <string name="enter_contact_phone_number">Enter contact phone number</string>
+    <string name="enter_contact_address">Enter contact address</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string name="name">Name</string>
+    <string name="person_image">Person image</string>
+    <string name="email">Email</string>
+    <string name="lastname">Lastname</string>
+    <string name="address">Address</string>
+    <string name="pnumber">Pnumber</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="button_add_contact">button add contact</string>
+    <string name="add_contact_button">add contact button</string>
+    <string name="add_contact_button_text">add contact button text</string>
+
+</resources>
